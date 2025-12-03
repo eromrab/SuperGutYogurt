@@ -1,0 +1,91 @@
+Probiotic,Temperature Range [MinSurvive - MinOptimal-MaxOptimal - MaxSurvive] (°F)
+Bacillus subtilis,[50 - 77-99 - 113]
+Aspergillus oryzae,[32 - 90-97 - 111]
+Lactobacillus hilgardii,[32 - 86-99 - 122]
+Lactobacillus pentosus,[32 - 77-99 - 122]
+Rhizopus oligosporus,[68 - 77-95 - 113]
+Lactobacillus delbrueckii,[32 - 104-113 - 149]
+Lactobacillus kunkeei,[32 - 68-86 - 113]
+
+═══════════════════════════════════════════════════════════════════════════════
+
+CONSPIRACY PROBIOTICS ANALYSIS:
+
+The following probiotics from your Conspiracy Probiotics.txt file were checked against your other lists:
+
+Aspergillus oryzae
+• In Known Probiotics: NO
+• In Milk Probiotics: NO
+• In Recipe: NO
+• Why not in lists: NOT a probiotic - this is a FUNGUS (mold) used for fermentation (koji for miso, sake, soy sauce). While it produces beneficial enzymes, it's not classified as a probiotic bacteria. It's a fermentation organism, not typically consumed as a live probiotic.
+
+Rhizopus oligosporus
+• In Known Probiotics: NO
+• In Milk Probiotics: NO
+• In Recipe: NO
+• Why not in lists: NOT a probiotic - this is a FUNGUS (mold) used for tempeh fermentation. While it produces beneficial compounds, it's not classified as a probiotic bacteria. It's a fermentation organism specific to tempeh production.
+
+Lactobacillus hilgardii
+• In Known Probiotics: NO
+• In Milk Probiotics: NO
+• In Recipe: NO
+• Why not in lists: Specialized fermentation organism primarily found in wine and beer fermentation. Not commonly used in dairy/yogurt fermentation or probiotic supplements. Typically associated with alcoholic beverage production rather than probiotic foods.
+
+Lactobacillus kunkeei
+• In Known Probiotics: NO
+• In Milk Probiotics: NO
+• In Recipe: NO
+• Why not in lists: Specialized organism primarily associated with honey bee gut microbiome and honey fermentation. Not commonly found in human gut or dairy fermentation. Limited research on human probiotic benefits.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+OTHER MISSING PROBIOTICS:
+
+Based on research, here are other probiotics that may be missing from standard lists:
+
+• Lactobacillus reuteri (other strains besides DSM 17938/ATCC PTA 6475)
+• Lactobacillus crispatus (vaginal health focus)
+• Lactobacillus jensenii (vaginal health focus)
+• Lactobacillus iners (vaginal health focus)
+• Lactobacillus vaginalis (vaginal health focus)
+• Lactobacillus salivarius subsp. salivarius (oral health focus)
+• Bifidobacterium catenulatum
+• Bifidobacterium pseudocatenulatum
+• Lactobacillus amylovorus
+• Lactobacillus amylolyticus
+• Lactobacillus amylophilus
+• Lactobacillus gallinarum
+• Lactobacillus aviarius
+• Lactobacillus ingluviei
+• Lactobacillus mucosae
+• Lactobacillus oris
+• Lactobacillus panis
+• Lactobacillus pontis
+• Lactobacillus sanfranciscensis (sourdough)
+• Lactobacillus kefiranofaciens (kefir)
+• Lactobacillus kefiri (kefir)
+• Lactobacillus parakefiri (kefir)
+• Lactobacillus helveticus subsp. jugurti
+• Streptococcus salivarius subsp. thermophilus (same as S. thermophilus)
+• Leuconostoc citreum
+• Leuconostoc gelidum
+• Leuconostoc kimchii
+• Pediococcus damnosus
+• Pediococcus inopinatus
+• Weissella cibaria
+• Weissella confusa
+• Weissella koreensis
+• Propionibacterium acnes (some strains beneficial, others pathogenic)
+• Clostridium butyricum (now Anaerobutyricum butyricum - spore-forming)
+• Eubacterium rectale
+• Eubacterium hallii
+• Ruminococcus bromii
+• Ruminococcus flavefaciens
+
+Note: Many of these are either:
+- Very specialized (vaginal, oral, or animal-specific)
+- Not commonly available in supplements
+- Require specialized fermentation conditions
+- Have limited human health research
+- Are anaerobic (difficult to culture at home)

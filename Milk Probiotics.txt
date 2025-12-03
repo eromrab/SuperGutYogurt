@@ -1,0 +1,48 @@
+Probiotics found only in raw cow milk:
+
+[Y] Lactobacillus acidophilus [86F - 98.6-104F - 113F] - Helps with lactose digestion, prevents antibiotic-associated diarrhea, and supports vaginal health by maintaining pH balance.
+[Y] Lactobacillus casei [59F - 86-98.6F - 111F] - Boosts immune function, reduces inflammation in the gut, and aids in preventing respiratory infections.
+[Y] Lactobacillus brevis [59F - 86-104F - 111F] - Promotes anti-inflammatory effects, supports oral health by inhibiting pathogens, and enhances gut barrier integrity.
+[N] Lactobacillus buchneri [59F - 86-104F - 111F] - Assists in fermentation processes that improve nutrient absorption and supports gut microbial stability.
+[N] Lactobacillus harbinensis [59F - 86-104F - 111F] - Contributes to antioxidant activity and supports cholesterol-lowering effects in the gut.
+[N] Lactobacillus nagelii [59F - 86-104F - 111F] - Aids in fermentation and supports antimicrobial activity against gut pathogens.
+[N] Lactococcus lactis [50F - 77-86F - 104F] - Enhances immune response through cytokine production and supports dairy tolerance.
+[N] Pediococcus pentosaceus [59F - 95-104F - 111F] - Improves gut microbiota balance and has antimicrobial properties against harmful bacteria.
+[N] Pediococcus acidilactici [59F - 95-104F - 111F] - Helps with nutrient fermentation, supports immune modulation, and prevents pathogen overgrowth.
+[N] Weissella paramesenteroides [59F - 86-104F - 111F] - Promotes exopolysaccharide production for gut protection and enhances immune function.
+[Y] Bifidobacterium spp. [68F - 97-100F - 115F] - Ferments dietary fibers, produces vitamins, strengthens the gut barrier, and alleviates IBS symptoms.
+
+Probiotics found only in raw goat milk:
+
+[Y] Lactobacillus rhamnosus [59F - 86-104F - 111F] - Prevents traveler's diarrhea, supports oral and vaginal health, and modulates the immune system.
+[N] Lactobacillus pentosus [59F - 86-104F - 111F] - Exhibits strong antimicrobial activity, aids cholesterol reduction, and supports anti-allergic responses.
+[N] Lactococcus lactis subsp. lactis [50F - 77-86F - 104F] - Produces bacteriocins to inhibit pathogens and enhances mucosal immunity.
+[N] Lactococcus lactis subsp. cremoris [50F - 77-86F - 104F] - Contributes to flavor development in fermentation while supporting gut microbial diversity.
+[N] Enterococcus faecalis [59F - 86-98.6F - 111F] - Assists in bile salt deconjugation for fat digestion and provides antimicrobial effects against gut pathogens.
+[N] Enterococcus durans [59F - 86-98.6F - 111F] - Helps maintain gut homeostasis and shows anti-inflammatory properties in intestinal disorders.
+[N] Enterococcus hirae [59F - 86-98.6F - 111F] - Supports quorum sensing in microbiota and aids in preventing enteropathogen adhesion.
+
+Probiotics found in both raw cow and goat milk:
+
+[Y] Lactobacillus plantarum [59F - 86-104F - 111F] - Improves gut barrier function, reduces bloating, and has antioxidant and anti-inflammatory benefits.
+[N] Lactobacillus fermentum [59F - 86-104F - 111F] - Enhances iron absorption, supports skin health, and provides cholesterol-lowering effects.
+[N] Enterococcus faecium [59F - 86-98.6F - 111F] - Boosts immunity against infections, aids in lactose breakdown, and promotes balanced gut flora.
+
+
+
+
+
+
+
+
+Sources:
+1. Lactobacillus acidophilus: Min 30°C (86°F), Opt 37-40°C (98.6-104°F), Max 45°C (113°F). BBRC Journal Special Issue 2021. https://bbrc.in/wp-content/uploads/2021/12/Volune-14-No-11-Special-Issue-2021-E-Copy.pdf
+2. Lactobacillus casei: Min 15°C (59°F), Opt 30-37°C (86-98.6°F), Max 44°C (111°F). Food Research Lab - Probiotic Formulation Challenges. https://www.foodresearchlab.com/sectors/nutraceutical/challenges-in-probiotic-formulation/
+3. Lactobacillus brevis, plantarum, fermentum, pentosus, buchneri: Min 15°C (59°F), Opt 30-40°C (86-104°F), Max 44°C (111°F). Editverse - Probiotic Strain Selection and Growth Kinetics in Dairy Fermentation. https://editverse.com/probiotic-strain-selection-and-growth-kinetics-in-dairy-fermentation/
+4. Lactobacillus rhamnosus: Min 15°C (59°F), Opt 30-40°C (86-104°F), Max 44°C (111°F). Editverse - Probiotic Strain Selection and Growth Kinetics in Dairy Fermentation. https://editverse.com/probiotic-strain-selection-and-growth-kinetics-in-dairy-fermentation/
+5. Lactobacillus harbinensis, nagelii: Estimated based on mesophilic Lactobacillus range (15-44°C / 59-111°F). Limited strain-specific data available.
+6. Lactococcus lactis (and subspecies): Min 10°C (50°F), Opt 25-30°C (77-86°F), Max 40°C (104°F). Dairy Processing Handbook - Cultures and Starter Manufacture. https://dairyprocessinghandbook.tetrapak.com/chapter/cultures-and-starter-manufacture
+7. Pediococcus pentosaceus, acidilactici: Min 15°C (59°F), Opt 35-40°C (95-104°F), Max 44°C (111°F). Editverse - Probiotic Strain Selection and Growth Kinetics in Dairy Fermentation. https://editverse.com/probiotic-strain-selection-and-growth-kinetics-in-dairy-fermentation/
+8. Weissella paramesenteroides: Estimated based on mesophilic lactic acid bacteria range (15-44°C / 59-111°F). Limited strain-specific data available.
+9. Bifidobacterium spp.: Min 20°C (68°F), Opt 36-38°C (96.8-100.4°F), Max 46°C (114.8°F). Wiley Catalog - Bifidobacterium Growth Characteristics. https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
+10. Enterococcus species (faecalis, durans, hirae, faecium): Estimated based on mesophilic lactic acid bacteria range. Typically optimal around 37°C (98.6°F), Min ~15°C (59°F), Max ~44°C (111°F). Limited strain-specific temperature data available.
