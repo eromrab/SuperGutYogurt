@@ -1,0 +1,251 @@
+PrOriginal Probiotic 36 Strains - Research Analysis
+================================================================================
+
+RESEARCH DATE: Current
+PRODUCT: PrOriginal Probiotic 36 Strains (120 Billion CFU)
+PRODUCT URL: https://www.amazon.com/dp/B0BLYWK3C6
+CONTACT INFORMATION:
+  • Phone: 213-221-8266 (NOTE: This number may not be working - try email instead)
+  • Email: info@proriginalhealth.com (Typically responds within 24 business hours)
+  • Contact Page: https://proriginalhealth.com/pages/contact-us
+  • Amazon Product Page: https://www.amazon.com/dp/B0BLYWK3C6 (Can contact seller through Amazon)
+
+================================================================================
+KEY FINDINGS
+================================================================================
+
+1. STRAIN SPECIFICATIONS - NOT DISCLOSED
+   • PrOriginal does NOT specify which specific strains of L. reuteri and L. gasseri it contains
+   • Only lists species names: "L. reuteri" and "L. gasseri"
+   • No strain designations (e.g., DSM 17938, ATCC PTA 6475, BNR17) provided
+   • No individual CFU counts per strain disclosed
+
+2. CFU DISTRIBUTION
+   • Total: 120 billion CFUs per capsule
+   • 36 strains total
+   • Average per strain: ~3.3 billion CFUs
+   • Actual distribution: Unknown (likely not equal)
+
+3. COMPARISON TO RECIPE REQUIREMENTS
+   Recipe Needs:
+   • L. reuteri: 10 billion CFUs (strains DSM 17938 & ATCC PTA 6475)
+   • L. gasseri: 10-20 billion CFUs (strain BNR17)
+   
+   PrOriginal Likely Provides:
+   • L. reuteri: ~3.3 billion CFUs (average, unknown strain)
+   • L. gasseri: ~3.3 billion CFUs (average, unknown strain)
+   
+   VERDICT: Insufficient CFUs and unknown strains
+
+4. MULTIPLE CAPSULE ANALYSIS
+   Current Setup (1 capsule):
+   • ~3.3 billion CFUs per strain (average)
+   • Below recipe target of 10-20 billion CFUs per strain
+   
+   With 2 Capsules:
+   • ~6.6 billion CFUs per strain (average)
+   • Closer to target, but still below 10 billion minimum
+   
+   With 3 Capsules:
+   • ~10 billion CFUs per strain (average)
+   • Meets minimum target for average strains
+   • ⚠️ Creates equal CFU competition for L. reuteri and L. gasseri:
+     - PrOriginal L. reuteri: ~10 billion (unknown strain) = MyReuteri: 10 billion (specific strains)
+     - PrOriginal L. gasseri: ~10 billion (unknown strain) = Biothin: 10-20 billion (BNR17)
+     - Unknown strains may compete more effectively with equal starting CFUs
+   
+   Considerations:
+   • 36-hour fermentation allows significant multiplication (10-100x increase)
+   • Starting with more CFUs = better initial colonization
+   • Some strains may multiply better than others
+   • Cost: 2-3x more expensive per batch
+   • The recipe already works with current setup (strains multiply during fermentation)
+   • ⚠️ Competition risk: Equal CFU counts make it harder for specific strains to dominate
+
+================================================================================
+COMPETITION ANALYSIS
+================================================================================
+
+RESEARCH FINDINGS ON PROBIOTIC COMPETITION:
+
+1. COEXISTENCE IS POSSIBLE
+   • Studies show L. reuteri and L. gasseri can coexist with other probiotic strains
+   • No significant antagonism observed between these species and other probiotics
+   • L. reuteri has been shown to inhibit pathogen adhesion without negatively 
+     affecting beneficial bacteria
+   • L. gasseri demonstrates anti-inflammatory properties and compatibility in 
+     multi-strain supplements
+
+2. STRAIN-LEVEL CONSIDERATIONS
+   • Different strains of the same species (e.g., L. reuteri DSM 17938 vs. 
+     unknown L. reuteri strain) may have different:
+     - Growth rates
+     - Temperature optima
+     - Metabolic activities
+     - Competitive advantages
+   
+   • In yogurt fermentation at 99°F:
+     - Strains better adapted to the temperature may outcompete others
+     - The specific strains (DSM 17938, ATCC PTA 6475, BNR17) are selected 
+       for their performance at this temperature
+     - Unknown strains from PrOriginal may not perform as well
+
+3. SYNERGISTIC EFFECTS
+   • Multiple strains can work synergistically
+   • Some combinations enhance overall probiotic efficacy
+   • Broad-spectrum blends (like PrOriginal) are designed to work together
+
+4. POTENTIAL CONCERNS
+   • If PrOriginal contains different strains of L. reuteri/L. gasseri:
+     - They may compete for resources (lactose, nutrients) during fermentation
+     - The unknown strains may not be optimized for 99°F fermentation
+     - Lower CFU counts from PrOriginal may be outcompeted by higher CFU 
+       counts from MyReuteri/Biothin
+   
+   • However, research suggests this competition is generally not harmful
+   - The stronger/more adapted strains will dominate
+   - This is actually beneficial if the specific strains (DSM 17938, etc.) 
+     are the ones that dominate
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+1. CONTINUE USING MYREUTERI AND BIOTHIN
+   Reasons:
+   • Ensures correct strains (DSM 17938, ATCC PTA 6475, BNR17)
+   • Provides adequate CFUs (10+ billion each)
+   • Strains are specifically selected for 99°F yogurt fermentation
+   • Documented benefits for SIBO yogurt
+
+2. PRORIGINAL CAN BE USED FOR OTHER 34 STRAINS
+   • Provides the remaining 34 probiotics needed
+   • Cost-effective way to get broad spectrum
+   • Competition from PrOriginal's L. reuteri/L. gasseri is unlikely to be 
+     problematic because:
+     - Lower CFU counts (likely ~3.3 billion each)
+     - Unknown strains may not be as well-adapted to 99°F
+     - The specific strains from MyReuteri/Biothin will likely dominate
+
+3. IF YOU WANT TO TEST USING ONLY PRORIGINAL:
+   • Contact PrOriginal customer service to ask:
+     - Which specific strains of L. reuteri and L. gasseri are included
+     - Individual CFU counts for these two strains
+   • Contact Information:
+     - Email: info@proriginalhealth.com (RECOMMENDED - responds within 24 business hours)
+     - Contact Page: https://proriginalhealth.com/pages/contact-us
+     - Amazon Seller Contact: Through Amazon product page (https://www.amazon.com/dp/B0BLYWK3C6)
+     - Phone: 213-221-8266 (May not be working - try email instead)
+   • If they can't provide this information, stick with MyReuteri/Biothin
+   • If they provide different strains, those may not have the same benefits
+
+================================================================================
+SCIENTIFIC REFERENCES
+================================================================================
+
+• L. reuteri strain compatibility: 
+  https://pubmed.ncbi.nlm.nih.gov/28377765/
+  
+• L. gasseri multi-strain compatibility:
+  https://pubmed.ncbi.nlm.nih.gov/29444150/
+  https://bmcmicrobiol.biomedcentral.com/articles/10.1186/1471-2180-13-298
+
+• Probiotic strain interactions:
+  https://pubmed.ncbi.nlm.nih.gov/19949794/
+
+================================================================================
+CONCLUSION
+================================================================================
+
+The L. reuteri and L. gasseri in PrOriginal are unlikely to significantly 
+compete with or interfere with MyReuteri and Biothin because:
+
+1. PrOriginal likely provides much lower CFU counts (~3.3 billion vs. 10+ billion)
+2. The specific strains in MyReuteri/Biothin are optimized for 99°F fermentation
+3. Research shows these species can coexist without harmful competition
+4. If competition occurs, the better-adapted strains (from MyReuteri/Biothin) 
+   will dominate, which is desirable
+
+However, PrOriginal cannot replace MyReuteri/Biothin because:
+1. Unknown specific strains (may not be DSM 17938, ATCC PTA 6475, or BNR17)
+2. Insufficient CFU counts (likely ~3.3 billion vs. required 10+ billion)
+3. No guarantee of the documented benefits associated with specific strains
+
+RECOMMENDATION: Continue using all three products together. The PrOriginal 
+L. reuteri and L. gasseri will likely be outcompeted by the specific strains 
+from MyReuteri/Biothin, which is actually beneficial for achieving the desired 
+therapeutic effects.
+
+================================================================================
+SHOULD YOU USE MORE THAN 1 CAPSULE?
+================================================================================
+
+ANALYSIS:
+
+Current Situation (1 capsule):
+• Provides ~3.3 billion CFUs per strain (average)
+• Recipe calls for 10-20 billion CFUs per strain
+• During 36-hour fermentation, probiotics multiply 10-100x
+• Your recipe already works with this setup
+
+Using 2 Capsules:
+• Provides ~6.6 billion CFUs per strain (average)
+• Pros: Closer to target, better initial colonization, more diversity
+• Cons: 2x cost, may be unnecessary if fermentation multiplies well
+
+Using 3 Capsules:
+• Provides ~10 billion CFUs per strain (average)
+• Pros: Meets minimum target, maximum initial colonization
+• Cons: 3x cost, likely overkill given 36-hour multiplication
+
+RECOMMENDATION:
+
+OPTION 1: Stick with 1 capsule (RECOMMENDED)
+• Your recipe already works
+• 36-hour fermentation allows significant multiplication
+• Cost-effective
+• If fermentation is working well, no need to change
+
+OPTION 2: Use 2 capsules (IF YOU WANT EXTRA INSURANCE)
+• Better for strains that don't multiply as well
+• Provides more diversity and better initial colonization
+• Still cost-effective (2x instead of 3x)
+• Good middle ground if you're concerned about survival
+
+OPTION 3: Use 3 capsules (ONLY IF HAVING ISSUES - WITH CAUTION)
+• Only if you notice weak fermentation or low CFU counts in final product
+• Maximum starting CFUs
+• Most expensive option
+• ⚠️ COMPETITION CONCERN: With 3 capsules, PrOriginal would provide:
+  - L. reuteri: ~10 billion CFUs (unknown strain) vs MyReuteri's 10 billion (DSM 17938 & ATCC PTA 6475)
+  - L. gasseri: ~10 billion CFUs (unknown strain) vs Biothin's 10-20 billion (BNR17)
+  - This creates equal or near-equal CFU competition between specific and unknown strains
+  - Unknown strains may compete more effectively with equal starting CFUs
+  - The specific strains (DSM 17938, ATCC PTA 6475, BNR17) are optimized for 99°F, but 
+    competition is less predictable with equal CFU counts
+  - RECOMMENDATION: Avoid 3 capsules unless absolutely necessary, as it increases 
+    competition risk for the core therapeutic strains
+
+FACTORS TO CONSIDER:
+• Are your batches fermenting well? (Thick, tangy, good texture)
+• Are you seeing desired health benefits?
+• Cost per batch (1 capsule vs 2-3 capsules)
+• The 36-hour fermentation multiplies CFUs significantly
+
+BOTTOM LINE: If your current yogurt is fermenting well and you're seeing 
+benefits, 1 capsule is sufficient. The 36-hour fermentation allows the 
+probiotics to multiply from ~3.3 billion to potentially 30-330 billion per 
+strain. If you want extra insurance or notice weak fermentation, try 2 
+capsules. 
+
+⚠️ IMPORTANT: Avoid using 3 capsules unless absolutely necessary, as it creates 
+equal CFU competition (10 billion vs 10 billion) between:
+- PrOriginal's unknown L. reuteri strain vs MyReuteri's DSM 17938 & ATCC PTA 6475
+- PrOriginal's unknown L. gasseri strain vs Biothin's BNR17
+
+With equal starting CFUs, the unknown strains have a better chance of competing 
+with or even outcompeting your specific therapeutic strains. While the specific 
+strains are optimized for 99°F fermentation, competition becomes less predictable 
+when starting CFUs are equal. Stick with 1-2 capsules to maintain dominance of 
+your core therapeutic strains.
+
