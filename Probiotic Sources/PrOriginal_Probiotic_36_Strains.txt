@@ -16,8 +16,8 @@ Probiotic Strains:
 - L. paracasei
 - L. lactis
 - L. bulgaricus
-- L. delbruecki
-- L. jenseni
+- L. delbrueckii
+- L. jensenii
 - L. reuteri
 - L. helveticus
 - L. fermentum
@@ -39,7 +39,7 @@ Probiotic Strains:
 - S. salivarius
 - P. pentosaceus
 - P. acidilactici
-- Lactococcus lactis subsp. diacety
+- Lactococcus lactis subsp. diacetylactis
 - Lactococcus lactis subsp. lactis
 - Lactococcus lactis subsp. cremoris
 - Leuconostoc mesenteroides
