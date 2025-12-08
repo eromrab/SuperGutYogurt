@@ -6,133 +6,133 @@ This document lists known probiotic bacteria, their health benefits, and optimal
 
 LACTOBACILLUS SPECIES
 
-•   [YYO] L. acidophilus
+•   [YYO] Lactobacillus acidophilus (La-14)
     Health Benefits: Enhances lactose digestion, supports digestive health, helps maintain healthy gut flora, supports immune function, manages lactose intolerance
-    Optimal Temperature Range: 98.6-107.6°F (37-42°C)
+    Optimal Temperature Range: 95-107.6°F (35-42°C)
     Full Temperature Range: 59-113°F (15-45°C)
     Temperature Source: https://www.mdpi.com/2311-5637/10/6/298; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834086/
 
-•   [YYO] L. casei
+•   [YYO] Lactobacillus casei (Lc-11)
     Health Benefits: Supports digestive health, enhances immune function, helps with lactose digestion, regulates bowel movements, reduces IBS symptoms, prevents gut infections
-    Optimal Temperature Range: 98.6-109.4°F (37-43°C)
+    Optimal Temperature Range: 95-109.4°F (35-43°C)
     Full Temperature Range: 59-113°F (15-45°C)
     Temperature Source: https://www.mdpi.com/2311-5637/10/6/298; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834086/
 
-•   [YYO] L. rhamnosus
+•   [YYO] Lactobacillus rhamnosus (Lr-32)
     Health Benefits: Supports immune function, helps with diarrhea, prevents and treats diarrhea, supports gut barrier function, inhibits pathogens, enhances immune resilience
     Optimal Temperature Range: 96-100°F (36-38°C)
     Full Temperature Range: 59-111.2°F (15-44°C)
     Temperature Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834086/; https://www.aimspress.com/aimspress-data/aimsmicro/2022/4/PDF/microbiol-08-04-027.pdf; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [YYO] L. plantarum
+•   [YYO] Lactobacillus plantarum
     Health Benefits: Powerful anti-inflammatory, gut barrier support, relieves IBS symptoms, produces folate, reduces bloating and gas, improves gut health
     Optimal Temperature Range: 86-100°F (30-38°C)
     Full Temperature Range: 53.6-104°F (12-40°C)
     Temperature Source: https://en.wikipedia.org/wiki/Lactiplantibacillus_plantarum; https://www.mdpi.com/2311-5637/10/6/298
 
-•   [YYO] L. reuteri (strains DSM 17938, ATCC PTA 6475)
+•   [YYO] Lactobacillus reuteri (strains DSM 17938, ATCC PTA 6475)
     Health Benefits: Reduces colic, promotes oral and urogenital health, supports oral health, reduces symptoms of IBS, balances gut flora, oxytocin production
     Optimal Temperature Range: 96-100°F (36-38°C)
     Full Temperature Range: 59-111.2°F (15-44°C)
     Temperature Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6525219/; https://cressdietetics.com/l-reuteri-and-other-probiotics-optimal-temperature-range-and-foods-for-cultivation; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [YYO] L. gasseri (BNR17)
+•   [YYO] Lactobacillus gasseri (BNR17)
     Health Benefits: Weight management support, digestive health, may help with SIBO, supports gut barrier
     Optimal Temperature Range: 98-100°F (37-38°C)
     Full Temperature Range: 95-105°F (35-41°C)
     Temperature Source: https://www.mdpi.com/2072-6643/11/7/1591; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [YYY] L. bulgaricus
+•   [YYY] Lactobacillus bulgaricus
     Health Benefits: Reduces proinflammatory cytokines, strong anti-inflammatory, improves gut health and digestion, produces lactic acid
     Optimal Temperature Range: 104-113°F (40-45°C)
     Full Temperature Range: 95-114.8°F (35-46°C)
     Temperature Source: https://www.aimspress.com/aimspress-data/aimsmicro/2022/4/PDF/microbiol-08-04-027.pdf; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834086/
 
-•   [YYO] L. brevis
+•   [YYO] Lactobacillus brevis
     Health Benefits: Cognitive health, memory support, anti-inflammatory, supports gut health
     Optimal Temperature Range: 86-104°F (30-40°C)
     Full Temperature Range: 59-113°F (15-45°C)
     Temperature Source: https://www.mdpi.com/2311-5637/10/6/298; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834086/
 
-•   [YYO] L. salivarius
+•   [YYO] Lactobacillus salivarius (Ls-33)
     Health Benefits: Supports oral and gut health, may help with bad breath, supports immune function, oral microbiome balance
     Optimal Temperature Range: 95-105°F (35-41°C)
     Full Temperature Range: 59-111.2°F (15-44°C)
     Temperature Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824258/; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [YNO] L. fermentum
+•   [YNO] Lactobacillus fermentum
     Health Benefits: Antimicrobial and antioxidative properties, supports gut health, may help with inflammation
-    Optimal Temperature Range: 98.6-109.4°F (37-43°C)
-    Full Temperature Range: 59-111.2°F (15-44°C)
+    Optimal Temperature Range: 95-113°F (35-45°C)
+    Full Temperature Range: 59-113°F (15-45°C)
     Temperature Source: https://www.mdpi.com/2072-6643/11/7/1591; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [YNY] L. helveticus
+•   [YNY] Lactobacillus helveticus
     Health Benefits: Protein digestion, may help with blood pressure, supports gut health, produces bioactive peptides
     Optimal Temperature Range: 104-113°F (40-45°C)
     Full Temperature Range: 59-111.2°F (15-44°C)
     Temperature Source: https://www.mdpi.com/2072-6643/11/7/1591; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [YNO] L. paracasei
+•   [YNO] Lactobacillus paracasei
     Health Benefits: Supports immune function, digestive health, may help with allergies
     Optimal Temperature Range: 95-105°F (35-41°C)
     Full Temperature Range: 50-104°F (10-40°C)
     Temperature Source: https://en.wikipedia.org/wiki/Lacticaseibacillus_paracasei; https://www.mdpi.com/2311-5637/10/6/298
 
-•   [YNO] L. johnsonii
+•   [YNO] Lactobacillus johnsonii
     Health Benefits: Supports gut barrier, immune function, may help with H. pylori (pathogenic bacteria that infects the stomach lining)
     Optimal Temperature Range: 98-100°F (37-38°C)
     Full Temperature Range: 59-111.2°F (15-44°C)
     Temperature Source: https://www.mdpi.com/2072-6643/11/7/1591; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [YNY] L. delbrueckii
+•   [YNY] Lactobacillus delbrueckii
     Health Benefits: Traditional yogurt culture, supports digestion, produces lactic acid
     Optimal Temperature Range: 104-113°F (40-45°C)
     Full Temperature Range: 95-115°F (35-46°C)
     Temperature Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834086/; https://www.aimspress.com/aimspress-data/aimsmicro/2022/4/PDF/microbiol-08-04-027.pdf
 
-•   [YNO] L. lactis
+•   [YNO] Lactobacillus lactis
     Health Benefits: Supports digestive health, traditional cheese culture, produces lactic acid
     Optimal Temperature Range: 86-104°F (30-40°C)
     Full Temperature Range: 59-111.2°F (15-44°C)
     Temperature Source: https://www.mdpi.com/2311-5637/10/6/298; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834086/
 
-•   [YNO] L. crispatus
+•   [YNO] Lactobacillus crispatus
     Health Benefits: Vaginal health, supports urogenital microbiome, prevents infections
     Optimal Temperature Range: 96-100°F (36-38°C)
     Full Temperature Range: 59-111.2°F (15-44°C)
     Temperature Source: https://www.mdpi.com/2072-6643/11/7/1591; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [YNO] L. jensenii
+•   [YNO] Lactobacillus jensenii
     Health Benefits: Vaginal health, urogenital microbiome support
     Optimal Temperature Range: 96-100°F (36-38°C)
     Full Temperature Range: 59-111.2°F (15-44°C)
     Temperature Source: https://www.mdpi.com/2072-6643/11/7/1591; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [YNO] L. gasseri (general)
+•   [YNO] Lactobacillus gasseri (general)
     Health Benefits: Digestive health, immune support, may help with weight management
     Optimal Temperature Range: 98-100°F (37-38°C)
     Full Temperature Range: 59-111.2°F (15-44°C)
     Temperature Source: https://www.mdpi.com/2072-6643/11/7/1591; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [YNN] L. sakei
+•   [YNN] Lactobacillus sakei
     Health Benefits: Oral health, may help with sinus health, supports oral microbiome
     Optimal Temperature Range: 86-98°F (30-37°C)
     Full Temperature Range: 86-98°F (30-37°C)
     Temperature Source: https://www.mdpi.com/2311-5637/10/6/298; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834086/
 
-•   [YNN] L. curvatus
+•   [YNN] Lactobacillus curvatus
     Health Benefits: Supports gut health, fermentation of foods
     Optimal Temperature Range: 86-98°F (30-37°C)
     Full Temperature Range: 86-98°F (30-37°C)
     Temperature Source: https://www.mdpi.com/2311-5637/10/6/298; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834086/
 
-•   [YNN] L. buchneri
+•   [YNN] Lactobacillus buchneri
     Health Benefits: Supports gut health, fermentation of foods, produces lactic and acetic acids, may help with food preservation
     Optimal Temperature Range: 86-98°F (30-37°C)
     Full Temperature Range: 86-98°F (30-37°C)
     Temperature Source: https://en.wikipedia.org/wiki/Lentilactobacillus_buchneri; https://www.mdpi.com/2311-5637/10/6/298
 
-•   [YNN] L. kefiri
+•   [YNN] Lactobacillus kefiri
     Health Benefits: Supports gut health, immune function, digestion, contributes to kefir's probiotic properties
     Optimal Temperature Range: 68-86°F (20-30°C)
     Full Temperature Range: 68-95°F (20-35°C)
@@ -142,43 +142,43 @@ LACTOBACILLUS SPECIES
 
 BIFIDOBACTERIUM SPECIES
 
-•   [YYO] B. bifidum
+•   [YYO] Bifidobacterium bifidum (Bb-02)
     Health Benefits: Reduces flatulence and abdominal pain, enhances gut health, reduces bloating, reduces gut inflammation, supports immune health, maintains healthy gut flora balance
     Optimal Temperature Range: 98-100°F (37-38°C)
     Full Temperature Range: 68-114.8°F (20-46°C)
     Temperature Source: https://www.mdpi.com/2072-6643/11/7/1591; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [YYO] B. longum
+•   [YYO] Bifidobacterium longum (Bl-05)
     Health Benefits: Supports overall gut health, helps with constipation, alleviates IBS symptoms, balances microbiota, exhibits anti-inflammatory properties, supports digestion, reduces inflammation, particularly beneficial for older adults
     Optimal Temperature Range: 98-100°F (37-38°C)
     Full Temperature Range: 68-114.8°F (20-46°C)
     Temperature Source: https://www.mdpi.com/2072-6643/11/7/1591; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [YYO] B. lactis (also B. animalis subsp. lactis)
+•   [YYO] Bifidobacterium lactis (Bl-04) (also Bifidobacterium animalis subsp. lactis)
     Health Benefits: Enhances immune response, supports digestive health, supports gut health, alleviates constipation, improves digestion in the lower gut
     Optimal Temperature Range: 98-100°F (37-38°C)
     Full Temperature Range: 68-114.8°F (20-46°C)
     Temperature Source: https://www.mdpi.com/2072-6643/11/7/1591; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [YNO] B. breve
+•   [YNO] Bifidobacterium breve
     Health Benefits: Supports healthy gut flora, aids digestion, reduces gut inflammation, alleviates constipation, promotes healthy gut microbiota in infants and adults
     Optimal Temperature Range: 98-100°F (37-38°C)
     Full Temperature Range: 68-114.8°F (20-46°C)
     Temperature Source: https://www.mdpi.com/2311-5637/10/11/553; https://www.mdpi.com/2072-6643/11/7/1591
 
-•   [YNO] B. infantis
+•   [YNO] Bifidobacterium infantis
     Health Benefits: Supports infant gut health, helps with colic, reduces inflammation, supports healthy development
     Optimal Temperature Range: 96-100°F (36-38°C)
     Full Temperature Range: 68-114.8°F (20-46°C)
     Temperature Source: https://www.mdpi.com/2072-6643/11/7/1591; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [YNO] B. adolescentis
+•   [YNO] Bifidobacterium adolescentis
     Health Benefits: Supports gut health, may help with mental health, supports healthy aging
     Optimal Temperature Range: 96-100°F (36-38°C)
     Full Temperature Range: 68-114.8°F (20-46°C)
     Temperature Source: https://www.mdpi.com/2072-6643/11/7/1591; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [YNO] B. animalis
+•   [YNO] Bifidobacterium animalis
     Health Benefits: Supports gut health, alleviates constipation, improves digestion in the lower gut
     Optimal Temperature Range: 96-100°F (36-38°C)
     Full Temperature Range: 68-114.8°F (20-46°C)
@@ -188,13 +188,13 @@ BIFIDOBACTERIUM SPECIES
 
 STREPTOCOCCUS SPECIES
 
-•   [YYY] S. thermophilus
+•   [YYY] Streptococcus thermophilus (St-21)
     Health Benefits: Creates thick, creamy yogurt texture, improves lactose digestion, supports immune system, aids digestion especially in lactose intolerance, helps with breakdown of dairy
     Optimal Temperature Range: 107.6-113°F (42-45°C)
     Full Temperature Range: 68-122°F (20-50°C)
     Temperature Source: https://www.mdpi.com/2311-5637/10/6/298; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834086/; https://www.sciencedirect.com/topics/engineering/growth-temperature
 
-•   [YNO] S. salivarius
+•   [YNO] Streptococcus salivarius
     Health Benefits: Oral health, supports oral microbiome, may help prevent dental issues
     Optimal Temperature Range: 95-105°F (35-41°C)
     Full Temperature Range: 59-111.2°F (15-44°C)
@@ -204,25 +204,25 @@ STREPTOCOCCUS SPECIES
 
 BACILLUS SPECIES
 
-•   [NYO] B. coagulans (GBI-30,6086) / Heyndrickxia coagulans
+•   [NYO] Bacillus coagulans (GBI-30,6086) / Heyndrickxia coagulans
     Health Benefits: Supports digestive health, reduces intestinal gas, assists in gluten breakdown, regulates symptoms of irritable bowel syndrome, promotes normal flora in reproductive system, balances immune response
     Optimal Temperature Range: 98.6-109.4°F (37-43°C)
     Full Temperature Range: 95-113°F (35-45°C)
     Temperature Source: https://pubmed.ncbi.nlm.nih.gov/33580694/; https://academic.oup.com/bbb/article/85/4/962/6047178
 
-•   [YYY] B. subtilis (HU58) (Yogurt)
+•   [YYY] Bacillus subtilis (HU58) (Yogurt)
     Health Benefits: Supports digestive health, produces enzymes, may help with nutrient absorption, spore-forming (heat resistant), produces bacteriocins that dismantle pathogen biofilms and reduce systemic inflammation, more consistent bacterial counts during fermentation than B. coagulans. Recommended by Dr. William Davis (Super Gut) as replacement for B. coagulans in yogurt making. Ideal for yogurt fermentation. Source: Microbiome Labs HU58 available via PureFormulas or other resellers.
     Optimal Temperature Range: 90-95°F (32-35°C)
     Full Temperature Range: 86-113°F (30-45°C)
     Temperature Source: https://www.mdpi.com/2072-6643/11/7/1591; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [NNY] B. subtilis (DE111) (Kombucha)
+•   [NNY] Bacillus subtilis (DE111) (Kombucha)
     Health Benefits: Supports digestive health, produces enzymes, may help with nutrient absorption, spore-forming (heat resistant), produces bacteriocins that dismantle pathogen biofilms and reduce systemic inflammation. Produces high CO2 during fermentation, making it better suited for fermenting beverages/juice rather than yogurt. Source: Available in VitaLife Organic Kombucha from Aldi.
     Optimal Temperature Range: 88-95°F (31-35°C)
     Full Temperature Range: 86-113°F (30-45°C)
     Temperature Source: https://www.mdpi.com/2072-6643/11/7/1591; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [NNO] B. clausii
+•   [NNO] Bacillus clausii
     Health Benefits: Supports digestive health, antibiotic-resistant, may help during antibiotic treatment
     Optimal Temperature Range: 95-113°F (35-45°C)
     Full Temperature Range: 95-113°F (35-45°C)
@@ -238,7 +238,7 @@ YEAST PROBIOTICS
     Full Temperature Range: 86-98.6°F (30-37°C)
     Temperature Source: https://www.mdpi.com/2072-6643/11/7/1591; https://catalogimages.wiley.com/images/db/pdf/9780470135440.excerpt.pdf
 
-•   [NNN] S. cerevisiae (nutritional yeast)
+•   [NNN] Saccharomyces cerevisiae (nutritional yeast)
     Health Benefits: Rich in B-vitamins (B1, B2, B3, B6, B9, B12), protein, may support immune function. Note: Nutritional yeast is typically heat-killed/deactivated, not live probiotic. Active S. cerevisiae is used for brewing/baking, not typically cultured as probiotic at home.
     Optimal Temperature Range: 86-95°F (30-35°C)
     Full Temperature Range: 86-95°F (30-35°C)

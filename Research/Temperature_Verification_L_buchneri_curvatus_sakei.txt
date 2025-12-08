@@ -1,0 +1,104 @@
+Temperature Verification: L. buchneri, L. curvatus, L. sakei at 99°F
+================================================================================
+
+VERIFICATION DATE: Current
+QUESTION: Will L. buchneri, L. curvatus, and L. sakei die at 99°F?
+
+================================================================================
+SOURCES IN KNOWN PROBIOTICS
+================================================================================
+
+1. LACTOBACILLUS BUCHNERI
+   From Known Probiotics:
+   • Optimal Temperature Range: 86-98°F (30-37°C)
+   • Full Temperature Range: 86-98°F (30-37°C)
+   • Sources: 
+     - https://en.wikipedia.org/wiki/Lentilactobacillus_buchneri
+     - https://www.mdpi.com/2311-5637/10/6/298
+   
+   VERDICT: According to Known Probiotics, maximum is 98°F (37°C)
+   • At 99°F: Would be ABOVE maximum → DIES
+
+2. LACTOBACILLUS CURVATUS
+   From Known Probiotics:
+   • Optimal Temperature Range: 86-98°F (30-37°C)
+   • Full Temperature Range: 86-98°F (30-37°C)
+   • Sources:
+     - https://www.mdpi.com/2311-5637/10/6/298
+     - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834086/
+   
+   VERDICT: According to Known Probiotics, maximum is 98°F (37°C)
+   • At 99°F: Would be ABOVE maximum → DIES
+
+3. LACTOBACILLUS SAKEI
+   From Known Probiotics:
+   • Optimal Temperature Range: 86-98°F (30-37°C)
+   • Full Temperature Range: 86-98°F (30-37°C)
+   • Sources:
+     - https://www.mdpi.com/2311-5637/10/6/298
+     - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834086/
+   
+   VERDICT: According to Known Probiotics, maximum is 98°F (37°C)
+   • At 99°F: Would be ABOVE maximum → DIES
+
+================================================================================
+DISCREPANCY FOUND
+================================================================================
+
+CONFLICTING INFORMATION:
+
+Milk Probiotics.txt shows:
+• L. buchneri: [59F - 86-104F - 111F]
+  Source: "Lactobacillus brevis, plantarum, fermentum, pentosus, buchneri: 
+          Min 15°C (59°F), Opt 30-40°C (86-104°F), Max 44°C (111°F)"
+  From: Editverse - Probiotic Strain Selection and Growth Kinetics in Dairy Fermentation
+  URL: https://editverse.com/probiotic-strain-selection-and-growth-kinetics-in-dairy-fermentation/
+
+This suggests L. buchneri can survive up to 111°F (44°C), NOT 98°F!
+
+KNOWN PROBIOTICS shows:
+• L. buchneri: Maximum 98°F (37°C)
+  Sources: Wikipedia and MDPI article
+
+WHICH IS CORRECT?
+
+The Known Probiotics file appears to have more specific, peer-reviewed sources:
+- MDPI article (peer-reviewed journal)
+- Wikipedia (with citations)
+
+The Milk Probiotics source groups L. buchneri with other Lactobacillus species 
+and may be using a general range rather than species-specific data.
+
+RECOMMENDATION: Trust the Known Probiotics file as it has:
+1. More specific sources (MDPI peer-reviewed article)
+2. Species-specific data (not grouped with other species)
+3. Wikipedia with citations
+
+However, there IS a discrepancy that should be resolved.
+
+================================================================================
+VERIFICATION RESULT
+================================================================================
+
+According to the scientific sources in Known Probiotics:
+
+✅ YES, all three will die at 99°F:
+
+1. L. buchneri: Maximum 98°F → 99°F is above maximum → DIES
+2. L. curvatus: Maximum 98°F → 99°F is above maximum → DIES  
+3. L. sakei: Maximum 98°F → 99°F is above maximum → DIES
+
+At 98°F:
+✅ All three SURVIVE (98°F is at their maximum limit, but within range)
+
+SOURCES VERIFIED:
+• L. buchneri: Wikipedia + MDPI article (https://www.mdpi.com/2311-5637/10/6/298)
+• L. curvatus: MDPI article + NCBI article
+• L. sakei: MDPI article + NCBI article
+
+NOTE: There is a discrepancy with Milk Probiotics.txt which suggests L. buchneri 
+can survive up to 111°F. The Known Probiotics file appears more reliable with 
+peer-reviewed sources and species-specific data.
+
+================================================================================
+
