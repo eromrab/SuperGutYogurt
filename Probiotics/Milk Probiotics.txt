@@ -3,12 +3,11 @@ Probiotics found only in raw cow milk:
 [Y] Lactobacillus acidophilus [86F - 98.6-104F - 113F] - Helps with lactose digestion, prevents antibiotic-associated diarrhea, and supports vaginal health by maintaining pH balance.
 [Y] Lactobacillus casei [59F - 86-98.6F - 111F] - Boosts immune function, reduces inflammation in the gut, and aids in preventing respiratory infections.
 [Y] Lactobacillus brevis [59F - 86-104F - 111F] - Promotes anti-inflammatory effects, supports oral health by inhibiting pathogens, and enhances gut barrier integrity.
-[N] Lactobacillus buchneri [86F - 86-98F - 98F] - Assists in fermentation processes that improve nutrient absorption and supports gut microbial stability. (NOTE: Cannot survive above 98°F/37°C)
+[Y] Lactobacillus buchneri [86F - 86-98F - 98F] - Assists in fermentation processes that improve nutrient absorption and supports gut microbial stability. (NOTE: Cannot survive above 98°F/37°C)
 [N] Lactobacillus harbinensis [59F - 86-104F - 111F] - Contributes to antioxidant activity and supports cholesterol-lowering effects in the gut.
 [N] Lactobacillus nagelii [59F - 86-104F - 111F] - Aids in fermentation and supports antimicrobial activity against gut pathogens.
-[N] Lactococcus lactis [50F - 77-86F - 104F] - Enhances immune response through cytokine production and supports dairy tolerance.
-[N] Pediococcus pentosaceus [59F - 95-104F - 111F] - Improves gut microbiota balance and has antimicrobial properties against harmful bacteria.
-[N] Pediococcus acidilactici [59F - 95-104F - 111F] - Helps with nutrient fermentation, supports immune modulation, and prevents pathogen overgrowth.
+[Y] Pediococcus pentosaceus [59F - 95-104F - 111F] - Improves gut microbiota balance and has antimicrobial properties against harmful bacteria.
+[Y] Pediococcus acidilactici [59F - 95-104F - 111F] - Helps with nutrient fermentation, supports immune modulation, and prevents pathogen overgrowth.
 [N] Weissella paramesenteroides [59F - 86-104F - 111F] - Promotes exopolysaccharide production for gut protection and enhances immune function.
 [Y] Bifidobacterium spp. [68F - 97-100F - 115F] - Ferments dietary fibers, produces vitamins, strengthens the gut barrier, and alleviates IBS symptoms.
 
@@ -16,23 +15,22 @@ Probiotics found only in raw goat milk:
 
 [Y] Lactobacillus rhamnosus [59F - 86-104F - 111F] - Prevents traveler's diarrhea, supports oral and vaginal health, and modulates the immune system.
 [N] Lactobacillus pentosus [59F - 86-104F - 111F] - Exhibits strong antimicrobial activity, aids cholesterol reduction, and supports anti-allergic responses.
-[N] Lactococcus lactis subsp. lactis [50F - 77-86F - 104F] - Produces bacteriocins to inhibit pathogens and enhances mucosal immunity.
-[N] Lactococcus lactis subsp. cremoris [50F - 77-86F - 104F] - Contributes to flavor development in fermentation while supporting gut microbial diversity.
 [N] Enterococcus faecalis [59F - 86-98.6F - 111F] - Assists in bile salt deconjugation for fat digestion and provides antimicrobial effects against gut pathogens.
 [N] Enterococcus durans [59F - 86-98.6F - 111F] - Helps maintain gut homeostasis and shows anti-inflammatory properties in intestinal disorders.
 [N] Enterococcus hirae [59F - 86-98.6F - 111F] - Supports quorum sensing in microbiota and aids in preventing enteropathogen adhesion.
 
 Probiotics found in both raw cow and goat milk:
 
+[Y] Lactococcus lactis subsp. lactis [50F - 77-86F - 104F] - Produces bacteriocins to inhibit pathogens and enhances mucosal immunity.
+[Y] Lactococcus lactis subsp. cremoris [50F - 77-86F - 104F] - Contributes to flavor development in fermentation while supporting gut microbial diversity.
 [Y] Lactobacillus plantarum [59F - 86-104F - 111F] - Improves gut barrier function, reduces bloating, and has antioxidant and anti-inflammatory benefits.
-[N] Lactobacillus fermentum [59F - 86-104F - 111F] - Enhances iron absorption, supports skin health, and provides cholesterol-lowering effects.
+[Y] Lactobacillus fermentum [59F - 86-104F - 111F] - Enhances iron absorption, supports skin health, and provides cholesterol-lowering effects.
 [N] Enterococcus faecium [59F - 86-98.6F - 111F] - Boosts immunity against infections, aids in lactose breakdown, and promotes balanced gut flora.
 
 
-
-
-
-
+KEY
+[Y] = In Super Gut SIBO Yogurt Recipe.txt
+[N] = Not in Super Gut SIBO Yogurt Recipe.txt
 
 
 Sources:

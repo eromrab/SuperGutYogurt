@@ -1,0 +1,196 @@
+Sourcing Information for Probiotics NOT in Super Gut SIBO Yogurt Recipe
+================================================================================
+
+The following probiotics are found in raw milk but are NOT currently in your recipe.
+Here's where you can potentially source them:
+
+================================================================================
+PROBIOTICS FOUND ONLY IN RAW COW MILK
+================================================================================
+
+1. Lactobacillus harbinensis
+   Status: NOT in recipe
+   Availability: VERY RARE - Not commonly found in commercial supplements
+   Sources:
+   - Raw cow milk (primary natural source)
+   - Some fermented dairy products
+   - May be available from specialized probiotic culture suppliers
+   - Consider: Contact culture collection companies (ATCC, DSMZ) for research strains
+   Note: This is a rare strain with limited commercial availability
+
+2. Lactobacillus nagelii
+   Status: NOT in recipe
+   Availability: VERY RARE - Not commonly found in commercial supplements
+   Sources:
+   - Raw cow milk (primary natural source)
+   - Some fermented dairy products
+   - May be available from specialized probiotic culture suppliers
+   - Consider: Contact culture collection companies (ATCC, DSMZ) for research strains
+   Note: This is a rare strain with limited commercial availability
+
+3. Weissella paramesenteroides
+   Status: NOT in recipe
+   Availability: VERY RARE - Not commonly found in commercial supplements
+   Sources:
+   - Raw milk (primary natural source)
+   - Some fermented foods (kimchi, sauerkraut, fermented dairy)
+   - May be present in some artisanal fermented products
+   - Consider: Contact specialized probiotic suppliers or culture collections
+   Note: Weissella species are generally rare in commercial probiotics
+   Alternative: Consider consuming fermented foods that naturally contain Weissella
+
+================================================================================
+PROBIOTICS FOUND ONLY IN RAW GOAT MILK
+================================================================================
+
+4. Lactobacillus pentosus
+   Status: NOT in recipe
+   Availability: RARE - Limited commercial availability
+   Sources:
+   - Raw goat milk (primary natural source)
+   - Some fermented foods (olives, sauerkraut, kimchi)
+   - May be found in some specialized probiotic blends
+   - Consider: Contact probiotic manufacturers directly
+   Note: Similar to L. plantarum but less commonly used in supplements
+
+5. Enterococcus faecalis
+   Status: NOT in recipe
+   Availability: LIMITED - Some controversy due to potential pathogenicity
+   Sources:
+   - Raw milk (primary natural source)
+   - Some multi-strain probiotics (less common)
+   - Note: Some Enterococcus strains can be opportunistic pathogens
+   - Consider: Consult healthcare provider before supplementing
+   Warning: Enterococcus faecalis can be antibiotic-resistant and cause infections
+   Recommendation: Generally NOT recommended for supplementation
+
+6. Enterococcus durans
+   Status: NOT in recipe
+   Availability: LIMITED - Rare in commercial supplements
+   Sources:
+   - Raw milk (primary natural source)
+   - Some fermented dairy products
+   - Note: Similar concerns as E. faecalis
+   Recommendation: Generally NOT recommended for supplementation
+
+7. Enterococcus hirae
+   Status: NOT in recipe
+   Availability: VERY RARE - Not commonly found in supplements
+   Sources:
+   - Raw milk (primary natural source)
+   - Some fermented foods
+   Recommendation: Generally NOT recommended for supplementation
+
+================================================================================
+PROBIOTICS FOUND IN BOTH RAW COW AND GOAT MILK
+================================================================================
+
+8. Enterococcus faecium
+   Status: NOT in recipe
+   Availability: MODERATE - Found in some multi-strain supplements
+   Sources:
+   - Garden of Life RAW Probiotics Men 50 & Wiser
+     (Contains Enterococcus faecium, Lactococcus lactis)
+     https://www.amazon.com/dp/B00Y8MP4G6
+   
+   - Cymbiotika Prebiotic + Probiotic
+     (Contains Enterococcus faecium, Lactococcus lactis)
+   
+   - Flora Pro 21
+     (Contains Enterococcus faecium, Lactococcus lactis)
+     https://www.fairvital.com/
+   
+   - Blends and Formulas Probiotic and Prebiotic
+     (Contains Enterococcus faecium)
+     https://blendsandformulas.com/
+   
+   Note: Some strains of E. faecium are used therapeutically (e.g., SF68)
+   Warning: Some Enterococcus strains can be antibiotic-resistant
+   Recommendation: Use only well-characterized probiotic strains (e.g., SF68)
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+EASIEST TO OBTAIN:
+- Enterococcus faecium - Available in several supplements (use caution)
+
+MODERATELY DIFFICULT:
+- Lactobacillus pentosus - May be in some specialized products
+
+VERY DIFFICULT TO OBTAIN (Rare Strains):
+- Lactobacillus harbinensis
+- Lactobacillus nagelii
+- Weissella paramesenteroides
+- Enterococcus faecalis, durans, hirae (NOT recommended due to safety concerns)
+
+NOT RECOMMENDED FOR SUPPLEMENTATION:
+- Enterococcus faecalis, durans, hirae (potential pathogenicity concerns)
+  These are better obtained naturally from raw milk if desired
+
+NATURAL SOURCES:
+- Raw cow milk (for harbinensis, nagelii, Weissella, Enterococcus species)
+- Raw goat milk (for pentosus, Enterococcus species)
+- Fermented foods (kimchi, sauerkraut for Weissella, pentosus)
+
+NOTE: The following probiotics are already in your recipe (marked [Y] in Milk Probiotics.txt):
+- Lactococcus lactis subsp. lactis and subsp. cremoris (found in both cow and goat milk)
+- All other probiotics marked [Y] are already included in your Super Gut SIBO Yogurt Recipe
+
+ALTERNATIVE APPROACH:
+If you want these probiotics, consider:
+1. Using raw milk as a starter culture (with proper safety precautions)
+2. Consuming small amounts of raw milk (if legally available and from trusted source)
+3. Using fermented foods that naturally contain these strains
+4. Contacting specialized probiotic culture suppliers for research strains
+
+IMPORTANT SAFETY NOTES:
+- Enterococcus species can be antibiotic-resistant and opportunistic pathogens
+- Raw milk carries food safety risks (pathogens, contamination)
+- Consult healthcare provider before supplementing with Enterococcus strains
+- Most of these rare strains are not essential for your yogurt recipe
+
+================================================================================
+SUGGESTED ACTION PLAN
+================================================================================
+
+If you want to add these probiotics to your recipe:
+
+1. EASIEST ADDITIONS:
+   - Add Enterococcus faecium (well-characterized strain like SF68) if desired
+
+2. FOR RARE STRAINS:
+   - Consider if they're truly necessary (most are already covered by similar strains)
+   - If needed, contact culture collection companies (ATCC, DSMZ) for research strains
+   - Consider using raw milk as a natural source (with proper safety measures)
+
+3. FOR ENTEROCOCCUS SPECIES:
+   - Generally NOT recommended due to safety concerns
+   - If using, only use well-characterized probiotic strains (e.g., E. faecium SF68)
+   - Consult healthcare provider first
+
+4. ALTERNATIVE:
+   - Your current recipe already includes 37 probiotics covering most health benefits
+   - The missing strains are rare and may not provide significant additional benefit
+   - Consider if the effort/cost is worth it for your specific health goals
+
+================================================================================
+CONTACT INFORMATION FOR SPECIALIZED SOURCES
+================================================================================
+
+Culture Collection Companies (for research strains):
+- ATCC (American Type Culture Collection): https://www.atcc.org/
+- DSMZ (German Collection of Microorganisms): https://www.dsmz.de/
+- These may have strains but are typically for research, not commercial use
+
+Probiotic Manufacturers (may have custom blends):
+- Garden of Life: https://www.gardenoflife.com/
+- NOW Foods: https://www.nowfoods.com/
+- Jarrow Formulas: https://www.jarrow.com/
+- Contact them directly to ask about specific rare strains
+
+================================================================================
+LAST UPDATED
+================================================================================
+December 2024
+
