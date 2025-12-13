@@ -232,7 +232,7 @@ BACILLUS SPECIES
 
 YEAST PROBIOTICS
 
-•   [NNN] Saccharomyces boulardii
+•   [NNO] Saccharomyces boulardii
     Health Benefits: Treats and prevents diarrhea, particularly antibiotic-associated diarrhea, supports the immune system, helps with C. difficile infections
     Optimal Temperature Range: 86-98.6°F (30-37°C)
     Full Temperature Range: 86-98.6°F (30-37°C)
@@ -368,15 +368,15 @@ KEY / LEGEND:
 
 First Character (Y/N): In Super Gut SIBO Yogurt Recipe.txt (Y) or NOT (N)
 Second Character (Y/N): Recommended for yogurt/cultured food fermentation (Y) or NOT (N)
-Third Character (O/Y/N): Can survive at 99°F - O = Optimal, Y = Yes (survivable but not optimal), N = No (cannot survive)
+Third Character (O/Y/N): Can survive at 98°F - O = Optimal, Y = Yes (survivable but not optimal), N = No (cannot survive)
 
 Examples:
-[YYO] = In recipe AND recommended for yogurt AND 99°F is optimal
-[YYY] = In recipe AND recommended for yogurt AND 99°F is survivable (not optimal)
-[YYN] = In recipe AND recommended for yogurt BUT 99°F is NOT survivable
-[YNO] = In recipe BUT not recommended for yogurt AND 99°F is optimal
-[NYO] = NOT in recipe BUT recommended for yogurt AND 99°F is optimal
-[NNN] = NOT in recipe AND not recommended for yogurt AND 99°F is NOT survivable
+[YYO] = In recipe AND recommended for yogurt AND 98°F is optimal
+[YYY] = In recipe AND recommended for yogurt AND 98°F is survivable (not optimal)
+[YYN] = In recipe AND recommended for yogurt BUT 98°F is NOT survivable
+[YNO] = In recipe BUT not recommended for yogurt AND 98°F is optimal
+[NYO] = NOT in recipe BUT recommended for yogurt AND 98°F is optimal
+[NNN] = NOT in recipe AND not recommended for yogurt AND 98°F is NOT survivable
 
 Health Benefits: Documented health benefits and properties of the probiotic strain
 Optimal Temperature Range: The temperature range where the probiotic grows best and produces highest CFU counts during fermentation
