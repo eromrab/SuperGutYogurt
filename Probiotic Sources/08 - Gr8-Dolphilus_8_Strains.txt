@@ -13,11 +13,11 @@ Amount Per Serving:
 Probiotic Blend of 8 Strains (4 Billion CFU): 370 mg**
 
 Probiotic Strains:
-- Lactobacillus acidophilus (La-14)
-- Lactobacillus rhamnosus (Lr-32)
+- Lactobacillus acidophilus (La-14) [strongest contributor to sourness/lactic acid]
+- Lactobacillus rhamnosus (Lr-32) [high contributor to sourness/lactic acid]
 - Bifidobacterium lactis (Bl-04)
-- Lactobacillus salivarius (Ls-33)
-- Lactobacillus casei (Lc-11)
+- Lactobacillus salivarius (Ls-33) [high contributor to sourness/lactic acid]
+- Lactobacillus casei (Lc-11) [strongest contributor to sourness/lactic acid]
 - Bifidobacterium longum (Bl-05)
 - Streptococcus thermophilus (St-21)
 - Bifidobacterium bifidum (Bb-02)
