@@ -1,0 +1,68 @@
+Super Gut SIBO Yogurt Recipe - Core 3 Plus Flavor Experiments (1 Quart)
+
+Purpose
+Use the same core 3 probiotics in each 1-quart batch, then test flavor/texture impact from:
+1) Streptococcus thermophilus only
+2) Lactobacillus helveticus only
+3) Both together
+
+This keeps Lactobacillus reuteri and Lactobacillus gasseri as primary probiotics while letting you compare taste.
+
+Core Base (All 3 Batches)
+- 1 capsule MyReuteri (L. reuteri)
+- 1 capsule Biothin Probiotic (L. gasseri)
+- Bacillus subtilis powder (approximately 1/12 tsp)
+- 2 tablespoons organic inulin powder
+- 1 quart organic half-and-half
+
+Flavor Strain Dosing (Conservative, Non-Dominant Start)
+- Tablet potency note: 3B CFU per serving of 2 tablets (so 1 tablet = 1.5B CFU)
+- Streptococcus thermophilus tablets: 2 tablets (3B CFU) to start
+- Lactobacillus helveticus tablets: 2 tablets (3B CFU) to start
+
+Recommended Experiment Set (1 Quart Each)
+
+Batch A - Core 3 + Streptococcus thermophilus
+- Add 2 tablets S. thermophilus
+- Add 0 tablets L. helveticus
+
+Batch B - Core 3 + Lactobacillus helveticus
+- Add 0 tablets S. thermophilus
+- Add 2 tablets L. helveticus
+
+Batch C - Core 3 + Both Flavor Strains
+- Add 2 tablets S. thermophilus
+- Add 2 tablets L. helveticus
+
+Why this amount
+- Your core strains are already high potency per batch.
+- 3B CFU per added strain (2 tablets) is enough to influence flavor/texture without likely overpowering the core profile.
+- At 98F, these two flavor strains are generally not at peak growth, which also helps prevent dominance.
+
+Escalation rule (if flavor is too weak)
+- Keep fermentation at 36 hours first, evaluate taste and sourness.
+- Next round only, increase by +2 tablets for the strain you want more of (3B CFU increments).
+- Suggested ceiling for non-dominant testing:
+  - Single-strain batch: up to 4 tablets total of that strain
+  - Both-strains batch: up to 4 tablets each (8 total), only if needed
+
+Step-by-Step (Same process for all batches)
+1. Open/add the core probiotic capsules/powder into a bowl.
+2. Add the specific flavor strain tablets for that batch (A, B, or C).
+3. Add 2 tbsp inulin and 2 tbsp half-and-half; whisk into a smooth slurry.
+4. Add remaining half-and-half and whisk well.
+5. Incubate at 98F for 36 hours.
+6. Refrigerate immediately after ferment.
+
+Tracking Template (recommended)
+- Batch ID:
+- Flavor strain dose:
+- Aroma:
+- Tang/sourness (1-10):
+- Thickness (1-10):
+- Best overall flavor? (Y/N):
+- Any intolerance reaction:
+
+Notes
+- Do not change multiple variables at once (time, temp, dose) in the same round.
+- If lactic acid/sourness is still too high, test 30-32 hour ferment in a separate follow-up round.
