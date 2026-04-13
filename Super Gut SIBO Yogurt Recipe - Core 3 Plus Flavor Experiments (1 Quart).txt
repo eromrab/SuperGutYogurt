@@ -15,36 +15,36 @@ Core Base (All 3 Batches)
 - 2 tablespoons organic inulin powder
 - 1 quart organic half-and-half
 
-Flavor Strain Dosing (Conservative, Non-Dominant Start)
+Flavor Strain Dosing
 - Tablet potency note: 3B CFU per serving of 2 tablets (so 1 tablet = 1.5B CFU)
-- Streptococcus thermophilus tablets: 2 tablets (3B CFU) to start
-- Lactobacillus helveticus tablets: 2 tablets (3B CFU) to start
+- Round 1: 2 tablets per added strain (~3B CFU each) — no clear taste difference vs core-only expectation.
+- Round 2 plan: 8 tablets where listed (~12B CFU per strain in that batch)
+- Round 2 actual (tonight batch): used 6 tablets per added flavor strain (~9B CFU per strain) instead of 8
 
-Recommended Experiment Set (1 Quart Each)
+Recommended Experiment Set — Round 2 (1 Quart Each)
 
 Batch A - Core 3 + Streptococcus thermophilus
-- Add 2 tablets S. thermophilus
+- Add 8 tablets S. thermophilus
 - Add 0 tablets L. helveticus
 
 Batch B - Core 3 + Lactobacillus helveticus
 - Add 0 tablets S. thermophilus
-- Add 2 tablets L. helveticus
+- Add 8 tablets L. helveticus
 
 Batch C - Core 3 + Both Flavor Strains
-- Add 2 tablets S. thermophilus
-- Add 2 tablets L. helveticus
+- Add 8 tablets S. thermophilus
+- Add 8 tablets L. helveticus
 
-Why this amount
-- Your core strains are already high potency per batch.
-- 3B CFU per added strain (2 tablets) is enough to influence flavor/texture without likely overpowering the core profile.
-- At 98F, these two flavor strains are generally not at peak growth, which also helps prevent dominance.
+Why this amount (Round 2)
+- After Round 1, flavor strains were not perceptible at ~3B CFU per strain; this round stress-tests a higher inoculum while keeping time and temperature fixed.
+- Single-strain batches (A, B) intentionally exceed the old “up to 4 tablets” single-strain soft cap to see if either strain can show through the core profile.
+- Batch C uses 8 + 8 tablets (16 flavor tablets total), the strongest both-strains comparison for this round.
+- Practical note: tonight's run used 6 + 6 in the both-strains batch (12 tablets total), a moderate step-up from Round 1.
 
-Escalation rule (if flavor is too weak)
-- Keep fermentation at 36 hours first, evaluate taste and sourness.
-- Next round only, increase by +2 tablets for the strain you want more of (3B CFU increments).
-- Suggested ceiling for non-dominant testing:
-  - Single-strain batch: up to 4 tablets total of that strain
-  - Both-strains batch: up to 4 tablets each (8 total), only if needed
+Escalation rule (after Round 2)
+- Keep fermentation at 36 hours first; evaluate taste, sourness, and thickness.
+- If flavor is still too weak, next round only: increase by +2 tablets for the strain you want more of (3B CFU increments), or run a separate round that changes only time or only temp (not both with dose in the same batch).
+- If sourness or texture becomes too aggressive before flavor reads clearly, try shorter ferment (e.g. 30–32 hours) in a dedicated follow-up round, dose unchanged.
 
 Step-by-Step (Same process for all batches)
 1. Open/add the core probiotic capsules/powder into a bowl.
